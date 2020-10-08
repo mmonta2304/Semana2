@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AgendaWeek2</string>
+    <string name="name">Nombre Completo</string>
+    <string name="telefono">Telefóno</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descricion Contacto</string>
+    <string name="button">Siguiente</string>
+    <string name="confirmar">Confirmar Datos</string>
+    <string name="nombredetalle">Nombre:</string>
+    <string name="minombre">Mariana Montano</string>
+    <string name="pnombre">nombre</string>
+    <string name="pfecha">fecha</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="comentario">comentario</string>
+</resources>
